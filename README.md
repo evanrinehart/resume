@@ -1,6 +1,6 @@
 # Evan Rinehart
 
-920 S Carrollton Ave.<br>
+920 S Carrollton Ave A<br>
 New Orleans, LA 70118<br>
 (985) 807 4063<br>
 evanrinehart@gmail.com<br>
