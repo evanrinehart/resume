@@ -56,7 +56,7 @@ open source technologies looking to work locally in or remotely from New Orleans
 - Java-based application development for proprietary EMR product
 - Designed and implemented type-safe DSL for reliable conversion of medical records
 - Enterprise integration of information systems of remote health service providers
-- Designed and integrated structured, transactional EAV database (via Datomic) into product
+- Designed and integrated structured, transactional EAV database (Datomic) into product
 - Clojure, Java, Datomic, Enterprise Integration Patterns
 
 ## Currently
