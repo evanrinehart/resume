@@ -32,8 +32,11 @@ open source technologies looking to work locally in or remotely from New Orleans
 ## Survey Communications Inc. (2009 - 2012)
 
 - PHP-based web application development for proprietary market research product
-- Windows, Linux, and OSX integration issues like file sharing and email
-- Custom Linux for call centers
+- Designed, implemented, and maintained MySQL database for web app
+- Implemented web app GUI in custom declarative Javascript framework and JQuery
+- Wrote and maintained scripts to support backend activities in Bash and Node.js
+- Wrote scripts to solve Windows XP, Windows Server, SCO, Linux, and OSX integration issues like file sharing, authentication, and email
+- Designed and deployed custom kiosk Linux for low-end hardware in call center
 - PHP, MySQL, Javascript, Linux, Bash, Apache, Nginx, Node.js, CakePHP, Samba
 
 ## Search Influence (2012 - 2014)
@@ -71,3 +74,4 @@ open source technologies looking to work locally in or remotely from New Orleans
 
 - C-language pixelated action game: https://github.com/evanrinehart/cantaveria
 - JACK MIDI sequencer: https://github.com/ViktorNova/epichord
+- Lua MUD: https://github.com/evanrinehart/miniature-dangerzone
