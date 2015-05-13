@@ -1,6 +1,6 @@
 # Evan Rinehart
 
-920 S Carrollton Ave A<br>
+920 S Carrollton Ave Apt A<br>
 New Orleans, LA 70118<br>
 (985) 807 4063<br>
 evanrinehart@gmail.com<br>
@@ -12,8 +12,10 @@ open source technologies looking to work locally in or remotely from New Orleans
 ## Louisiana State University (2003 - 2007)
 
 - BSEE Computer Engineering
-- Second Major: Math
+- Second Major: Mathematics
 - Minors: Physics, Computer Science
+- Major GPA: 3.37
+- Total Hours: 196
 
 ### Employment
 - Instructed computer courses in HTML, Javascript, Linux
@@ -36,17 +38,29 @@ open source technologies looking to work locally in or remotely from New Orleans
 
 ## Search Influence (2012 - 2014)
 
-- Ruby-based web apps and programs to support proprietary workflows
+- Ruby-based web apps, web services, and backend programs to support proprietary workflows
+- Implemented and maintained a variety of web services hosted on Linux VPS, local Linux, and Heroku
+- Designed, deployed, and migrated relational databases in MySQL, Postgres, and SQLite
+- Design and maintenance of gems for common features such as API access (via HTTP, SOAP), encryption of sensitive information (via OpenSSL), and data structure validation
+- Implemented and troubleshooted various HTTP authentication and authorization mechanisms like OAuth2, CORS, HTTPAuth, and pre-shared keys
+- Identified and fixed bugs in third party services affecting the end user
+- Identified and worked around bugs in Rails
+- Setup mechanisms to alert when service is unexpectedly unavailable
 - Ruby, Rails, Sinatra, Postgres, Heroku, APIs
 
 ## Breeze EHR (2014 - 2015)
 
 - Java-based application development for proprietary EMR product
-- Clojure, Java
+- Designed and implemented type-safe DSL for reliable conversion of medical records
+- Enterprise integration of information systems of remote health service providers
+- Designed and integrated structured, transactional EAV database (via Datomic) into product
+- Clojure, Java, Datomic, Enterprise Integration Patterns
 
-## Post-Breeze
+## Currently
 
-- Mikmod bindings and fixes https://hackage.haskell.org/package/mikmod-0.2.0.0/docs/Sound-MikMod.html
+- Mikmod bindings and fixes
+  - https://hackage.haskell.org/package/mikmod-0.2.0.0/docs/Sound-MikMod.html
+  - http://sourceforge.net/p/mikmod/patches/14/
 - Idris fixes https://github.com/idris-lang/Idris-dev/pull/1604
 - LowGL https://github.com/evanrinehart/lowgl
 - Epichord rewrite https://github.com/evanrinehart/epichord
