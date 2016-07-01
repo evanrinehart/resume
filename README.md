@@ -66,6 +66,7 @@ open source technologies looking to work locally in or remotely from New Orleans
 - Analytics, Adwords, Facebook For Business
 - Transactional emails, newsletters, notifications
 - Web API design and reverse engineering
+- Amazon and Google cloud platforms
 - Legacy PHP maintenance
 - Your App Infrastructure Headquarters: Call Today!
 
