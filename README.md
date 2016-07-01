@@ -59,16 +59,30 @@ open source technologies looking to work locally in or remotely from New Orleans
 - Designed and integrated structured, transactional EAV database (Datomic) into product
 - Clojure, Java, Datomic, Enterprise Integration Patterns
 
+## Consulting (2015 - now)
+
+- HTML5 webpages, mobile ready
+- E-commerce integration
+- Analytics, Adwords, Facebook For Business
+- Transactional emails, newsletters, notifications
+- Web API design and reverse engineering
+- Legacy PHP maintenance
+- Your App Infrastructure Headquarters: Call Today!
+
 ## Currently
+
+- Haskellcats Reading Group NOLA - http://www.meetup.com/Haskellcats-Reading-Group-NOLA/
+- Functional *Time Bandit* clone - https://github.com/evanrinehart/time-bandit-clone
+- Functional game programming blog - http://evanr.info/blogs/time-bandit-clone
+- Dynamic comments for static blogs - https://github.com/evanrinehart/comments
+- Youtube channel https://www.youtube.com/user/evanrinehart/videos
+
+## Less Recently
 
 - Mikmod bindings and fixes
   - https://hackage.haskell.org/package/mikmod-0.2.0.0/docs/Sound-MikMod.html
   - http://sourceforge.net/p/mikmod/patches/14/
 - Idris fixes https://github.com/idris-lang/Idris-dev/pull/1604
-- LowGL https://github.com/evanrinehart/lowgl
-- Epichord rewrite https://github.com/evanrinehart/epichord
-- FRP https://github.com/evanrinehart/broccoli
-- Youtube channel https://www.youtube.com/user/evanrinehart/videos
 
 ## Eternal Projects
 
