@@ -6,7 +6,7 @@ New Orleans, LA 70118<br>
 evanrinehart@gmail.com<br>
 https://github.com/evanrinehart<br>
 
-Software engineer with seven years of professional experience in a variety of
+Software engineer with eight years of professional experience in a variety of
 open source technologies looking to work locally in or remotely from New Orleans.
 
 ## Louisiana State University (2003 - 2007)
