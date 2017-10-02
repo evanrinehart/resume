@@ -6,7 +6,7 @@ New Orleans, LA 70118<br>
 evanrinehart@gmail.com<br>
 https://github.com/evanrinehart<br>
 
-Software engineer with five years of professional experience in a variety of
+Software engineer with seven years of professional experience in a variety of
 open source technologies looking to work locally in or remotely from New Orleans.
 
 ## Louisiana State University (2003 - 2007)
@@ -68,11 +68,12 @@ open source technologies looking to work locally in or remotely from New Orleans
 - Web API design and reverse engineering
 - Amazon and Google cloud platforms
 - Legacy PHP maintenance
+- Arduino software and electronics solutions
 - Your App Infrastructure Headquarters: Call Today!
 
 ## Currently
 
-- Haskellcats Reading Group NOLA - http://www.meetup.com/Haskellcats-Reading-Group-NOLA/
+- Haskellcats Reading Group NOLA - https://github.com/haskellcats http://haskellcats.net/
 - Functional *Time Bandit* clone - https://github.com/evanrinehart/time-bandit-clone
 - Functional game programming blog - http://evanr.info/blogs/time-bandit-clone
 - Dynamic comments for static blogs - https://github.com/evanrinehart/comments
